@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>TippAI</title>
         <item>
-            <title>1.6.0</title>
-            <pubDate>Fri, 23 Oct 2026 16:43:10 +0200</pubDate>
+            <title>1.7.0</title>
+            <pubDate>Thu, 29 Oct 2026 12:46:10 +0100</pubDate>
             <link>https://github.com/miwixyz/TippAI-Updates</link>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Mac: Updates direkt in der App:</b> Unter <b>TippAI → Nach Updates suchen …</b> prüft TippAI, ob es eine neue Version gibt, lädt sie und installiert sie nach deiner Bestätigung. Beim zweiten Start fragt TippAI einmal, ob es automatisch nach Updates suchen darf. Jedes Update ist signiert; TippAI installiert nur, was die Prüfung besteht. Dieses eine Mal musst du 1.6.0 noch von Hand installieren, ab dann kommen Updates über die App.</p><h3>Fehlerbehebungen</h3><p>• <b>Mac: Markieren ruckelt nicht mehr:</b> Beim Markieren und Scrollen setzte TippAI Schrift und Farbe bei jeder Mausbewegung für den ganzen Text neu. Jetzt nur noch, wenn sich die Schrift wirklich ändert oder ein anderer Text geladen wird.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.6.0/TippAI-v1.6.0-macOS.zip" length="5129570" type="application/octet-stream" sparkle:edSignature="zMPMfrauE2pfoltfsoQlzjeMhb1C9G65WkHoVg2zUOAoG45HaaaONsEFcQ31m3+wMIb5x4l//qbdMLdKUfqdCg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Mac: Seitenleiste über das Menü:</b> Unter <b>Darstellung → Seitenleiste einblenden</b> (control-command-S) blendest du die Notizliste ein und aus.</p><p>• <b>Mac: Schriftgröße per Tastatur:</b> <b>Darstellung → Größer / Kleiner / Originalgröße</b> (command-Plus, command-Minus, command-0) ändern die Schrift im Editor in Schritten von 1 Punkt, zwischen 12 und 36 Punkt wie der Regler in den Einstellungen.</p><p>• <b>Mac: KI-Fehler mit „Erneut versuchen“:</b> Scheitert eine KI-Anfrage, sagt die Meldung jetzt „KI-Anfrage fehlgeschlagen“ und bietet <b>Erneut versuchen</b> an, statt nur „OK“.</p><h3>Fehlerbehebungen</h3><p>• <b>iPhone: Text springt beim Tippen nicht mehr:</b> In längeren Notizen sprang die Anzeige bei fast jedem Buchstaben hoch und runter, manchmal verschwand die Zeile, in der du schreibst, hinter der Formatleiste. Ursache: Beim Formatieren nach jedem Tastendruck hielt das Textfeld die Notiz kurz für fast leer und scrollte an den Anfang. Jetzt bleibt die Position stehen (gemessen im Simulator: vorher 3 bis 8 Sprünge je Taste, jetzt keiner).</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.7.0/TippAI-v1.7.0-macOS.zip" length="5138337" type="application/octet-stream" sparkle:edSignature="43lymJppaAwPmvDS2TB7dXB82KjUngmJsEsFtGswHbUrqRmW+P7d1GCmrRCpaBpgi5+bYdFXsTGkQmJ+zDWCDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: XA9i1yBcCmIZpQArfsj8iv+Dbf4NgX9rkjyLK5pWzPtGaCQZehswlJurH/ckN5EAEsb0MwjFKpLpCXkm/bNMDQ==
-length: 1943
+edSignature: m/Lz0fiGMDMBWIfQ/tZSzjSo6+VdV7uZ+6ILj/VU25PNhrN3wVXuD4CND6u3UEHaecPLUi8HSBgBQ4a0LWJHAA==
+length: 2325
 -->
