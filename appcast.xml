@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>TippAI</title>
         <item>
-            <title>1.8.1</title>
-            <pubDate>Tue, 03 Nov 2026 09:17:36 +0100</pubDate>
+            <title>1.9.0</title>
+            <pubDate>Fri, 13 Nov 2026 14:20:08 +0100</pubDate>
             <link>https://github.com/miwixyz/TippAI-Updates</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Farben für „Kontrast erhöhen“:</b> Ist in den Systemeinstellungen „Kontrast erhöhen“ eingeschaltet (Mac: Bedienungshilfen → Anzeige, iPhone: Bedienungshilfen → Anzeige &amp; Textgröße), nutzt TippAI kräftigere Farben für Akzente, Nebentexte und Rahmen. Ohne die Einstellung bleibt alles wie gewohnt.</p><h3>Fehlerbehebungen</h3><p>• <b>Mac: Schreibmarke springt beim Tippen nicht mehr:</b> Beim Schreiben mitten im Text sprang die Schreibmarke immer wieder ans Ende der Notiz oder an eine falsche Stelle, die nächsten Buchstaben landeten dann durcheinander. Ursache: Der Editor bekam ab und zu kurz einen Stand von einem Tastendruck vorher und drehte den gerade getippten Buchstaben zurück. Jetzt erkennt er diese Rückmeldung und lässt Text und Schreibmarke in Ruhe (gemessen: vorher 7 Sprünge in einer Minute Tippen, jetzt keiner bei 193 Tastendrücken).</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.8.1/TippAI-v1.8.1-macOS.zip" length="5153452" type="application/octet-stream" sparkle:edSignature="VfBUClxcKFydvos3S//4tuAUrIz28PvLrcufwKXpoZ/aMS3RVC/1bI4HOhw7j43EzwzlFflAOcNPabHKf/lmCg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Gleitende Umschalter (Mac):</b> Der Umschalter zwischen Schreiben und geteilter Ansicht und der zwischen Vorschau und Markdown bei geöffneten Dateien sind jetzt eine Pille, die zur gewählten Seite gleitet. Fährst du mit dem Zeiger über die andere Seite, zeigt ein weicher Schatten, wohin es geht. Dieselbe Optik bekommen Porter, Tippi, Gnotchi und Kalli.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.9.0/TippAI-v1.9.0-macOS.zip" length="5206580" type="application/octet-stream" sparkle:edSignature="f0z6vXrVQjEFUNbqyEifZ3qV/dQiHtGsFKGHqaGFbmTzvOrX1YjYVuMSYXrmLLzTQrMLP436YETcJKnGhTxqCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ymy3AQZ9P7Q7NCZFhgVas4lsYVSO8sgDTh6tD1smytcd40r8w48oXYHv0Tc5kHmGagjePEx8qh4zGC4vBBluDg==
-length: 2105
+edSignature: Zw/yRTpxpE9bBbjri1B/WYuRPeVsxy0sa0atv8qVre8r1TWeFbDw7ReP/afg+Hbl7+p3AqfP9vbty9leJKkuCg==
+length: 1582
 -->
