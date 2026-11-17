@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>TippAI</title>
         <item>
-            <title>1.9.0</title>
-            <pubDate>Fri, 13 Nov 2026 14:20:08 +0100</pubDate>
+            <title>1.10.0</title>
+            <pubDate>Tue, 17 Nov 2026 12:01:15 +0100</pubDate>
             <link>https://github.com/miwixyz/TippAI-Updates</link>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Gleitende Umschalter (Mac):</b> Der Umschalter zwischen Schreiben und geteilter Ansicht und der zwischen Vorschau und Markdown bei geöffneten Dateien sind jetzt eine Pille, die zur gewählten Seite gleitet. Fährst du mit dem Zeiger über die andere Seite, zeigt ein weicher Schatten, wohin es geht. Dieselbe Optik bekommen Porter, Tippi, Gnotchi und Kalli.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.9.0/TippAI-v1.9.0-macOS.zip" length="5206580" type="application/octet-stream" sparkle:edSignature="f0z6vXrVQjEFUNbqyEifZ3qV/dQiHtGsFKGHqaGFbmTzvOrX1YjYVuMSYXrmLLzTQrMLP436YETcJKnGhTxqCg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>iPhone: Diktat-Tastatur „TippAI Diktat“ (in Vorbereitung):</b> Eine Tastatur, die ein fertig diktiertes und aufbereitetes Stück Text in jedes Textfeld tippt. Dazu gibt es die Kurzbefehle-Aktion <b>Diktat für die Tastatur bereitstellen</b>. Die Tastatur braucht Vollzugriff, nur um den Austauschordner zu lesen; ihr Quellcode enthält kein Netzwerk, keine Zwischenablage und kein Lesen des Textes um den Cursor. Das Diktat verfällt nach 10 Minuten und wird beim Einfügen gelöscht.</p><h3>Fehlerbehebungen</h3><p>• <b>Keine Notizfassung geht mehr beim Speichern verloren:</b> Änderte ein zweites Gerät oder Tippi die erste Zeile einer Notiz, entstand eine zweite Datei derselben Notiz. Beim nächsten Speichern löschte TippAI sie ungesehen. Jetzt bleibt diese Fassung als eigene Notiz erhalten (Konfliktkopie), genau wie in Tippi 2.40.1. Tippi und TippAI legen dabei dieselbe Kopie an, nicht zwei.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.10.0/TippAI-v1.10.0-macOS.zip" length="5217823" type="application/octet-stream" sparkle:edSignature="fXPC9p65nHTOefjvK50tctr0d+bgFqSUzGU2e864uSce0RMH3nimSR0sbXhPE604R/Ozkdrn1koUO2+e5deZCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Zw/yRTpxpE9bBbjri1B/WYuRPeVsxy0sa0atv8qVre8r1TWeFbDw7ReP/afg+Hbl7+p3AqfP9vbty9leJKkuCg==
-length: 1582
+edSignature: 49+HE6ru5QaFvtGH8979yhHvFsegL1FABDT3z0R5d/cKQk+hCur7sjq8nNoCh1pSCKoQ0loil5iPqaYDAJ1XAw==
+length: 2137
 -->
