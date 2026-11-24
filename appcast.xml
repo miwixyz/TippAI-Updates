@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>TippAI</title>
         <item>
-            <title>1.11.0</title>
-            <pubDate>Fri, 20 Nov 2026 12:52:12 +0100</pubDate>
+            <title>1.12.0</title>
+            <pubDate>Tue, 24 Nov 2026 18:11:19 +0100</pubDate>
             <link>https://github.com/miwixyz/TippAI-Updates</link>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Hängender iCloud-Upload wird sichtbar:</b> Wartet eine Notiz länger als eine Minute auf den Upload, zeigt die Statuszeile unter der Notizliste in Orange „1 Notiz wartet auf Upload“ (bzw. „n Notizen …“) und nennt, was zu prüfen ist. Bisher stand dort weiter „Tippi &amp; iCloud“, auch wenn Änderungen tagelang nur auf dem iPhone lagen, etwa weil „Mobile Daten“ für iCloud Drive aus war.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.11.0/TippAI-v1.11.0-macOS.zip" length="5176955" type="application/octet-stream" sparkle:edSignature="XUhoEXXVZtlhkUSa3lcilL0CTDYBG+HyAT7TDlerYXhkM160Yk+GOyL6x1ijQY721bvZFZQECD1vpa8bJo6RDg=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Datenschutzerklärung in der App:</b> In den Einstellungen gibt es eine Karte „Datenschutz“ mit Link zur Datenschutzerklärung. Du erreichst sie jetzt direkt aus der App, ohne die Website zu suchen.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.12.0/TippAI-v1.12.0-macOS.zip" length="5180273" type="application/octet-stream" sparkle:edSignature="T6donbqYgZkHUt2E2g+1oMoBpnZ7v2ILXHDbYtlx7atZPToD71bjTkFJUttLuMTgtOy0s7N0HHX2cBNOuHCZAA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: MmGkTObbGR03e1rtPn+GcuTvvQY3ltH6OXGE9Ic0iRZpFgV7jQSp7VX3axu76urq0m/g+U0zZlNILwzgy1sGDA==
-length: 1636
+edSignature: qmbgQdLtro6JuzA/nydM5bXqKJaakE+G2CjbkkyYdwtfrQCpTYo6ThDVxmYX+uhugZ7BMjsZyen3CSdMOGyuCA==
+length: 1430
 -->
