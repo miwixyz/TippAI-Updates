@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>TippAI</title>
         <item>
-            <title>1.12.0</title>
-            <pubDate>Tue, 24 Nov 2026 18:11:19 +0100</pubDate>
+            <title>1.13.0</title>
+            <pubDate>Thu, 26 Nov 2026 16:12:54 +0100</pubDate>
             <link>https://github.com/miwixyz/TippAI-Updates</link>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Datenschutzerklärung in der App:</b> In den Einstellungen gibt es eine Karte „Datenschutz“ mit Link zur Datenschutzerklärung. Du erreichst sie jetzt direkt aus der App, ohne die Website zu suchen.</p>]]></description>
-            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.12.0/TippAI-v1.12.0-macOS.zip" length="5180273" type="application/octet-stream" sparkle:edSignature="T6donbqYgZkHUt2E2g+1oMoBpnZ7v2ILXHDbYtlx7atZPToD71bjTkFJUttLuMTgtOy0s7N0HHX2cBNOuHCZAA=="></enclosure>
+            <description><![CDATA[<meta charset="utf-8"><h3>Funktionen</h3><p>• <b>Volltextsuche:</b> Die Suche findet jetzt jede Notiz, in der alle eingegebenen Wörter vorkommen, egal in welcher Reihenfolge. „Rechnung Kino“ findet also auch „Kino … Rechnung“. Groß- und Kleinschreibung und Akzente spielen keine Rolle: „cafe“ findet „Café“.</p><p>• <b>Suche über alle Ordner:</b> Sobald du suchst, durchsucht TippAI alle Notizen, nicht nur den gewählten Ordner. Die Liste heißt dann „Suche in allen Notizen“. Der Papierkorb bleibt außen vor.</p><p>• <b>Treffer hervorgehoben:</b> In der Liste stehen die gefundenen Wörter fett, und die Vorschau springt zur Fundstelle.</p>]]></description>
+            <enclosure url="https://github.com/miwixyz/TippAI-Updates/releases/download/v1.13.0/TippAI-v1.13.0-macOS.zip" length="5185138" type="application/octet-stream" sparkle:edSignature="UGqRc54aOCgGhnbjq1gNE2RAoX4kr8IdOn97bMVYhMI/2RVALILj8EWXEqoPbgbB38Uu6waPN0nuN3E9kj8lCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qmbgQdLtro6JuzA/nydM5bXqKJaakE+G2CjbkkyYdwtfrQCpTYo6ThDVxmYX+uhugZ7BMjsZyen3CSdMOGyuCA==
-length: 1430
+edSignature: wkRusL8vfWUI2l+rtcSE+IgYmQYWfsoGOdGuB0UYlDEq07SaaML0AqWb/NAm/lx23ysXtHJP/bgvL1h90LByCw==
+length: 1848
 -->
